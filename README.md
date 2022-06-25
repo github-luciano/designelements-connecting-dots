@@ -1,4 +1,4 @@
 # Connecting dots
 
-Just some dots connecting. Can be implemented for other designs.
+Just some dots connecting. 
 
